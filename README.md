@@ -1,4 +1,4 @@
-![image](https://github.com/raaviian/car-rental-app/assets/90436146/2dfd68f9-6b2b-426b-8307-680c0b6a6383)# Car Rental System App Readme
+# Car Rental System App Readme
 
 This repository contains a Java Swing application that showcases the usage of Swing components. The application provides a graphical user interface for performing car rental system tasks.
 
